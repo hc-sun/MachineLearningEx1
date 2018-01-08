@@ -1,1 +1,1 @@
-# CourseraMachineLearning
+# MachineLearningEx1
